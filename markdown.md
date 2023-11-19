@@ -1,4 +1,12 @@
 # tytuł
+- [tytuł](#tytuł)
+- [chapter 1](#chapter-1)
+  - [chapter 2](#chapter-2)
+  - [wyróżnianie](#wyróżnianie)
+  - [odsyłacze](#odsyłacze)
+  - [obrazki](#obrazki)
+  - [lists](#lists)
+  - [tables](#tables)
 
 zdanie testowe
 
@@ -39,3 +47,24 @@ terefere
 ## obrazki
 
 ![mapa](mostek.jpg)
+
+## lists
+
+1. kot
+2. pies
+3. rybka
+
+- gwiazdy
+- słońce
+- niebo
+
+## tables
+jak możemy podróżować
+
+|heading|definition|
+
+|--------|----------|
+
+|item a|definition|
+
+|item b|definition|
