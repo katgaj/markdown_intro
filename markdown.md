@@ -63,9 +63,6 @@ terefere
 jak możemy podróżować
 
 |heading|definition|
-
 |--------|----------|
-
 |item a|definition|
-
 |item b|definition|
