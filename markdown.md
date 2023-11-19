@@ -2,16 +2,16 @@
 # tytuł<!-- omit in toc -->
 
 - [chapter 1](#chapter-1)
-  - [chapter 2](#chapter-2)
-  - [wyróżnianie](#wyróżnianie)
-  - [odsyłacze](#odsyłacze)
-  - [obrazki](#obrazki)
-  - [lists](#lists)
-  - [tables](#tables)
+- [chapter 2](#chapter-2)
+- [wyróżnianie](#wyróżnianie)
+- [odsyłacze](#odsyłacze)
+- [obrazki](#obrazki)
+- [lists](#lists)
+- [tables](#tables)
 
 zdanie testowe
 
-# chapter 1
+## chapter 1
 
 What am I doing here? It's so dark and cold ...
 
