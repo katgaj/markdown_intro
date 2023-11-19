@@ -1,6 +1,6 @@
 
-# tytuł
-- [tytuł](#tytuł)
+# tytuł<!-- omit in toc -->
+
 - [chapter 1](#chapter-1)
   - [chapter 2](#chapter-2)
   - [wyróżnianie](#wyróżnianie)
