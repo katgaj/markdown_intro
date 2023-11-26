@@ -1,28 +1,28 @@
 
-# tytuł<!-- omit in toc -->
+# My first steps with Markdown<!-- omit in toc -->
 
-- [chapter 1](#chapter-1)
-- [chapter 2](#chapter-2)
-- [wyróżnianie](#wyróżnianie)
-- [odsyłacze](#odsyłacze)
-- [obrazki](#obrazki)
+- [Chapter 1](#chapter-1)
+- [Chapter 2](#chapter-2)
+- [italics and bold](#italics-and-bold)
+- [links](#links)
+- [images](#images)
 - [lists](#lists)
 - [tables](#tables)
 
-zdanie testowe
+test sentence
 
-## chapter 1
+## Chapter 1
 
 What am I doing here? It's so dark and cold ...
 
-## chapter 2
+## Chapter 2
 
 How to get out of this cage?
 
 DevOps practices have become mainstream in the IT industry over the recent years, no doubt about that.   
 This perfect combination of collaboration, automation, continuous integration, and analytics significantly shortens the systems development life cycle and provides continuous delivery with high software quality. Its main benefit? Teams can update software in minutes rather than weeks or months. And once users get used to that, they expect other product deliverables to work the same way, including content. 
 
-## wyróżnianie
+## italics and bold
 
  Its main *benefit*? Teams can update **software** in minutes rather than weeks or months.
 
@@ -41,11 +41,11 @@ This perfect combination of collaboration, automation, continuous integration, a
 
 terefere
 
-## odsyłacze
+## links
 
 [prognoza](https://meteo.pl/)
 
-## obrazki
+## images
 
 ![mapa](mostek.jpg)
 
