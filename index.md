@@ -41,6 +41,8 @@ This perfect combination of collaboration, automation, continuous integration, a
 
 ```x+y=z```
 
+$x+y=z$
+
 ## strikethrough
 
 ~~terefere~~
@@ -52,6 +54,10 @@ This perfect combination of collaboration, automation, continuous integration, a
 ## images
 
 ![mapa](mostek.jpg)
+
+![Alt text](joey.jpg-2.jpg)"Joey doesn't share food"
+
+
 
 ## lists
 
